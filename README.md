@@ -9,7 +9,7 @@ rule-providers:
   normal_direct:
     type: http
     behavior: classical
-    url: "https://ghproxy.com/https://github.com/hnuzhoulin/custom_rules/raw/main/normal_direct"
+    url: "https://ghproxy.com/https://github.com/hnuzhoulin/custom_rules/raw/main/normal_direct.yaml"
     path: "./normal_direct.yaml"
     interval: 86400  # 更新间隔，单位是秒
   us_proxy:
