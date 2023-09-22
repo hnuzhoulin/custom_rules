@@ -8,3 +8,4 @@
 # TOTAL: 1
 payload:
   - DOMAIN-SUFFIX,workers.dev
+  - DOMAIN-SUFFIX,ifconfig.me
