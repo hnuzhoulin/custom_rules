@@ -11,4 +11,4 @@ payload:
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,fakeopen.com
   - DOMAIN-SUFFIX,jiguang.cn
-  - DOMAIN-SUFFIX,api.srv.jpush.cn
+  - DOMAIN-SUFFIX,srv.jpush.cn
