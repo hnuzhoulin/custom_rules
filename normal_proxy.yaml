@@ -11,3 +11,6 @@ payload:
   - DOMAIN-SUFFIX,ifconfig.me
   - DOMAIN-SUFFIX,bwskyer.com
   - DOMAIN-SUFFIX,hicairo.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,cocopilot.org
