@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,whatismyipaddress.com
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,functional.events.data.microsoft.com
