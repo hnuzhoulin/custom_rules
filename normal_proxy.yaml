@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,collect.alipay.com
   - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,gm.mmstat.com
+  - DOMAIN-SUFFIX,oaifree.com
