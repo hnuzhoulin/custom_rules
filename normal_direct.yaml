@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,fakeopen.com
   - DOMAIN-SUFFIX,jiguang.cn
   - DOMAIN-SUFFIX,srv.jpush.cn
+  - DOMAIN-SUFFIX,modelscope.cn
