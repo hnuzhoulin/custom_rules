@@ -7,10 +7,11 @@
 # IP-CIDR: 0
 # TOTAL: 1
 payload:
-  - DOMAIN-SUFFIX,itzhoulin.com
-  - DOMAIN-SUFFIX,mylinux.uk
-  - DOMAIN-SUFFIX,ip.sb
-  - DOMAIN-SUFFIX,fakeopen.com
-  - DOMAIN-SUFFIX,jiguang.cn
-  - DOMAIN-SUFFIX,srv.jpush.cn
-  - DOMAIN-SUFFIX,modelscope.cn
+  - DOMAIN-SUFFIX,itzhoulin.com,no-resolve
+  - DOMAIN-SUFFIX,mylinux.uk,no-resolve
+  - DOMAIN-SUFFIX,ip.sb,no-resolve
+  - DOMAIN-SUFFIX,fakeopen.com,no-resolve
+  - DOMAIN-SUFFIX,jiguang.cn,no-resolve
+  - DOMAIN-SUFFIX,srv.jpush.cn,no-resolve
+  - DOMAIN-SUFFIX,modelscope.cn,no-resolve
+  - DOMAIN-SUFFIX,quark.cn,no-resolve
