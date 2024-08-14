@@ -16,4 +16,3 @@ payload:
   - DOMAIN-SUFFIX,modelscope.cn,no-resolve
   - DOMAIN-SUFFIX,quark.cn,no-resolve
   - DOMAIN-SUFFIX,rundoai.com,no-resolve
-  - DOMAIN-SUFFIX,teamviewer.com,no-resolve
