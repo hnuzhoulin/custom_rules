@@ -7,9 +7,10 @@
 # IP-CIDR: 0
 # TOTAL: 2
 payload:
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,whatismyipaddress.com
-  - DOMAIN-SUFFIX,reddit.com
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,events.data.microsoft.com
+  - DOMAIN-SUFFIX,claude.ai,no-resolve
+  - DOMAIN-SUFFIX,anthropic.com,no-resolve
+  - DOMAIN-SUFFIX,whatismyipaddress.com,no-resolve
+  - DOMAIN-SUFFIX,reddit.com,no-resolve
+  - DOMAIN-SUFFIX,intercom.io,no-resolve
+  - DOMAIN-SUFFIX,events.data.microsoft.com,no-resolve
+  - DOMAIN-SUFFIX,nsfwcharai.com,no-resolve
