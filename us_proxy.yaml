@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,intercom.io,no-resolve
   - DOMAIN-SUFFIX,events.data.microsoft.com,no-resolve
   - DOMAIN-SUFFIX,nsfwcharai.com,no-resolve
+  - DOMAIN-SUFFIX,nsfwcharacterai.com,no-resolve
