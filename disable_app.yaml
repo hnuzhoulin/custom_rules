@@ -1,0 +1,22 @@
+# NAME: disable_app
+# AUTHOR: hnuzhoulin
+# UPDATED: 2025-06-05 09:08:27
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 2
+# IP-CIDR: 0
+# TOTAL: 2
+payload:
+# navicat
+  - IP-CIDR,12.168.1.230/32,DIRECT,no-resolve
+  - IP-CIDR,120.25.46.155/32,DIRECT,no-resolve
+  - IP-CIDR,185.209.85.222/32,DIRECT,no-resolve
+  - IP-CIDR,119.28.206.193/32,DIRECT,no-resolve
+  - IP-CIDR,119.28.183.184/32,DIRECT,no-resolve
+  - IP-CIDR,202.112.29.82/32,DIRECT,no-resolve
+  - IP-CIDR,78.46.102.180/32,DIRECT,no-resolve
+  - IP-CIDR,162.159.200.1/32,DIRECT,no-resolve
+  - IP-CIDR,84.16.67.12/32,DIRECT,no-resolve
+  - IP-CIDR,54.149.106.111/32,DIRECT,no-resolve
+  - IP-CIDR,162.159.200.123/32,DIRECT,no-resolve
+  - IP-CIDR,142.171.164.25/32,DIRECT,no-resolve
