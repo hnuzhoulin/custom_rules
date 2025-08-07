@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,nsfwcharacterai.com,no-resolve
   - DOMAIN-SUFFIX,one.google.com,no-resolve
   - DOMAIN-SUFFIX,aistudio.google.com,no-resolve
+  - DOMAIN-SUFFIX,binance.com,no-resolve
