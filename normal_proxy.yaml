@@ -24,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,airgate.link,no-resolve
   - DOMAIN-SUFFIX,teamviewer.com,no-resolve
   - DOMAIN-SUFFIX,buondua.com,no-resolve
+  - DOMAIN-SUFFIX,gradle.org,no-resolve
