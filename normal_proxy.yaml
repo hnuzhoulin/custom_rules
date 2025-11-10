@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,buondua.com,no-resolve
   - DOMAIN-SUFFIX,gradle.org,no-resolve
   - DOMAIN-SUFFIX,linux.do,no-resolve
+  - DOMAIN-SUFFIX,deeplx.org,no-resolve
