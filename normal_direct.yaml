@@ -17,3 +17,15 @@ payload:
   - DOMAIN-SUFFIX,quark.cn,no-resolve
   - DOMAIN-SUFFIX,rundoai.com,no-resolve
   - DOMAIN-SUFFIX,binance.com,no-resolve
+  - DOMAIN-SUFFIX,ddurl.to
+  - DOMAIN-SUFFIX,dg-work.cn
+  - DOMAIN-SUFFIX,dingding.xin
+  - DOMAIN-SUFFIX,dingtalk.cn
+  - DOMAIN-SUFFIX,dingtalk.com
+  - DOMAIN-SUFFIX,dingtalk.com.cn
+  - DOMAIN-SUFFIX,dingtalk.net
+  - DOMAIN-SUFFIX,dingtalkapps.com
+  - DOMAIN-SUFFIX,laiwang.com
+  - DOMAIN-SUFFIX,lwurl.to
+  - DOMAIN-SUFFIX,realapp.xin
+  - '8.222.0.0/16'
