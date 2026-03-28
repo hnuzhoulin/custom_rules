@@ -27,3 +27,4 @@ payload:
   - DOMAIN-SUFFIX,gradle.org,no-resolve
   - DOMAIN-SUFFIX,linux.do,no-resolve
   - DOMAIN-SUFFIX,deeplx.org,no-resolve
+  - DOMAIN-SUFFIX,adspower.net,no-resolve
