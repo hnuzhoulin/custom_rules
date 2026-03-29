@@ -1,0 +1,27 @@
+# NAME: ai_ide_home
+# AUTHOR: Codex
+# UPDATED: 2026-03-29 23:05:00
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 0
+# IP-CIDR: 0
+# PROCESS-NAME: 8
+# PROCESS-PATH: 8
+# TOTAL: 16
+payload:
+  - PROCESS-PATH,/Applications/Antigravity.app/Contents/MacOS/Electron
+  - PROCESS-PATH,/Applications/ChatGPT.app/Contents/MacOS/ChatGPT
+  - PROCESS-PATH,/Applications/Codex.app/Contents/MacOS/Codex
+  - PROCESS-PATH,/Applications/Cursor.app/Contents/MacOS/Cursor
+  - PROCESS-PATH,/Applications/Claude.app/Contents/MacOS/Claude
+  - PROCESS-PATH,/Applications/Windsurf.app/Contents/MacOS/Windsurf
+  - PROCESS-PATH,/Applications/Trae.app/Contents/MacOS/Trae
+  - PROCESS-PATH,/Applications/Augment.app/Contents/MacOS/Augment
+  - PROCESS-NAME,Antigravity.exe
+  - PROCESS-NAME,ChatGPT.exe
+  - PROCESS-NAME,Codex.exe
+  - PROCESS-NAME,Cursor.exe
+  - PROCESS-NAME,Claude.exe
+  - PROCESS-NAME,Windsurf.exe
+  - PROCESS-NAME,Trae.exe
+  - PROCESS-NAME,Augment.exe

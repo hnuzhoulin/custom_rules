@@ -18,4 +18,10 @@ rule-providers:
     url: "https://ghproxy.com/https://github.com/hnuzhoulin/custom_rules/raw/main/us_proxy.yaml"
     path: "./us_proxy.yaml"
     interval: 86400  # 更新间隔，单位是秒
+  ai_ide_home:
+    type: http
+    behavior: classical
+    url: "https://ghproxy.com/https://github.com/hnuzhoulin/custom_rules/raw/main/ai_ide_home.yaml"
+    path: "./ai_ide_home.yaml"
+    interval: 86400  # 更新间隔，单位是秒
 ```
