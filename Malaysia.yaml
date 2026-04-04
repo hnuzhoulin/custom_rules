@@ -8,3 +8,6 @@
 # TOTAL: 2
 payload:
   - DOMAIN-SUFFIX,pekat-monitoring.com,no-resolve
+  - DOMAIN,solar-thailand.rundoai.com,no-resolve
+  - DOMAIN-SUFFIX,pekat-agent.rundoai.com,no-resolve
+  - DOMAIN,psolar-global-micro.rundoai.com,no-resolve
