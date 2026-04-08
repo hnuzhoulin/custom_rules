@@ -11,3 +11,4 @@ payload:
   - DOMAIN,solar-thailand.rundoai.com,no-resolve
   - DOMAIN,pekat-agent.rundoai.com,no-resolve
   - DOMAIN,solar-global-micro.rundoai.com,no-resolve
+  - DOMAIN,pekat-agent.rundoai.com,no-resolve
