@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,linux.do,no-resolve
   - DOMAIN-SUFFIX,deeplx.org,no-resolve
   - DOMAIN-SUFFIX,adspower.net,no-resolve
+  - DOMAIN-SUFFIX,tmp.homes,no-resolve
